@@ -1,0 +1,12 @@
+VARIABLES FOR AIRFLOW
+
+mail_pass = YOUR_PASS
+mail_receiver = YOUR_RECEIVER_MAIL
+mail_sender =   YOUR_SENDER_MAIL
+redshift_database = airflow
+redshift_port = 5432
+redshift_pwd = airflow
+redshift_url = host.docker.internal
+redshift_user = airflos
+spotify_id = YOUR_SPOTIFY_ID
+spotify_secret = YOUR_SPOTIFY_SECRET
